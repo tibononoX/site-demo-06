@@ -3,39 +3,37 @@
   "name": "Alliance Garage-Carrosserie",
   "initial": "A",
   "trade": "garage",
-  "tradeLabel": "Garage, carrosserie, tôlerie, peinture · Genève",
+  "tradeLabel": "Carrosserie, tôlerie, peinture · Les Acacias, Genève",
   "theme": { "mode": "dark", "accent": "#ff6a13", "display": "sans", "hero": "type" },
   "hero": {
-    "eyebrow": "Les Acacias, Genève",
-    "title": "Carrosserie, tôlerie, peinture",
-    "titleEm": "et mécanique.",
-    "lead": "Réparations mécaniques toutes marques, carrosserie, entretien périodique et préparation au contrôle technique, aux Acacias."
+    "eyebrow": "Benjamin Fernandes · Les Acacias, Genève",
+    "title": "Carrosserie, tôlerie",
+    "titleEm": "et peinture.",
+    "lead": "L'atelier de carrosserie de Benjamin Fernandes, chemin de la Gravière 8, aux Acacias."
   },
   "rating": { "score": "5,0", "count": 47, "source": "Google" },
   "services": {
     "title": "Nos prestations",
     "items": [
-      { "title": "Carrosserie et tôlerie", "text": "Réparation de carrosserie et travaux de tôlerie." },
-      { "title": "Peinture", "text": "Peinture automobile." },
-      { "title": "Mécanique et entretien", "text": "Réparations mécaniques toutes marques et entretien périodique." },
-      { "title": "Contrôle technique", "text": "Préparation de votre véhicule pour le contrôle technique." },
-      { "title": "Achat, vente et leasing", "text": "Achat, vente et leasing de véhicules." }
+      { "title": "Carrosserie", "text": "Réparation de la carrosserie de votre véhicule." },
+      { "title": "Tôlerie", "text": "Travaux de tôlerie sur votre véhicule." },
+      { "title": "Peinture", "text": "Peinture de votre véhicule." }
     ]
   },
   "steps": {
     "title": "Comment ça se passe",
     "items": [
-      { "title": "Appelez ou écrivez", "text": "Décrivez-nous les dégâts ou l'entretien à prévoir, par téléphone ou par email." },
+      { "title": "Appelez ou écrivez", "text": "Décrivez les dégâts à Benjamin Fernandes, par téléphone ou par email." },
       { "title": "Déposez votre véhicule", "text": "À l'atelier, chemin de la Gravière 8, aux Acacias." },
       { "title": "Récupérez-le", "text": "Vous reprenez votre véhicule à l'atelier, une fois les travaux terminés." }
     ]
   },
   "contact": {
-    "title": "Contactez l'atelier",
+    "title": "Contactez la carrosserie",
     "lead": "Pour la carrosserie, adressez-vous à Benjamin Fernandes.",
     "phones": [
-      { "label": "Atelier", "display": "022 342 52 02", "tel": "+41223425202" },
-      { "label": "Benjamin Fernandes", "display": "079 501 11 35", "tel": "+41795011135" }
+      { "label": "Benjamin Fernandes", "display": "079 501 11 35", "tel": "+41795011135" },
+      { "label": "Atelier", "display": "022 342 52 02", "tel": "+41223425202" }
     ],
     "email": "contact@alliance-garage.ch",
     "address": ["Chemin de la Gravière 8", "1227 Les Acacias"]
